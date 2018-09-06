@@ -1,7 +1,5 @@
 # Learn How To Use React Testing Library
 
-# Learn How To Use React Testing Library
-
 ## Goals
 * Learn how to build a React APP with BDD
 * Learn how to use React Testing Library for integration testing
